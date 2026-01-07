@@ -11,4 +11,5 @@ Sou estudante de Engenharia de Computação no IFTM - Campus Avançado Uberaba P
 
 ### GitHub Stats
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarmoH&theme=transparent&bg_color=000&border_color=FF6961&show_icons=true&icon_color=C63637&title_color=C63637&text_color=FFF)
